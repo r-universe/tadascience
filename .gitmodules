@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "react"]
+	path = react
+	url = https://github.com/tadascience/react
+[submodule "tada"]
+	path = tada
+	url = https://github.com/tadascience/tada
