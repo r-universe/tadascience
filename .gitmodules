@@ -8,3 +8,6 @@
 [submodule "tada"]
 	path = tada
 	url = https://github.com/tadascience/tada
+[submodule "valentine"]
+	path = valentine
+	url = https://github.com/tadascience/valentine
