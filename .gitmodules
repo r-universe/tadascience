@@ -2,6 +2,14 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "chattr"]
+	path = chattr
+	url = https://github.com/mlverse/chattr
+	registered = false
+[submodule "httr2"]
+	path = httr2
+	url = https://github.com/r-lib/httr2
+	registered = false
 [submodule "react"]
 	path = react
 	url = https://github.com/tadascience/react

@@ -1,0 +1,14 @@
+[
+  {
+    "package": "chattr",
+    "url": "https://github.com/mlverse/chattr",
+    "via": ["tada"],
+    "from": "tada"
+  },
+  {
+    "package": "httr2",
+    "url": "https://github.com/r-lib/httr2",
+    "via": ["tada", "chattr"],
+    "from": "tada"
+  }
+]
