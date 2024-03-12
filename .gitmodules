@@ -10,6 +10,9 @@
 	path = httr2
 	url = https://github.com/r-lib/httr2
 	registered = false
+[submodule "link"]
+	path = link
+	url = https://github.com/tadascience/link
 [submodule "react"]
 	path = react
 	url = https://github.com/tadascience/react
