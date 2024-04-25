@@ -16,6 +16,9 @@
 [submodule "react"]
 	path = react
 	url = https://github.com/tadascience/react
+[submodule "slap"]
+	path = slap
+	url = https://github.com/tadascience/slap
 [submodule "tada"]
 	path = tada
 	url = https://github.com/tadascience/tada
